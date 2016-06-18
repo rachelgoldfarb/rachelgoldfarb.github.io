@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	border-top: 5px solid red;
+	border-bottom: 5px solid red;
+	background: rgb(198,198,198);
+}
+img{
+	border: 1px solid black;
+	float: right;
+}
+h1{
+	text-transform: uppercase;
+}
+hr{
+	width: 70%;
+}
